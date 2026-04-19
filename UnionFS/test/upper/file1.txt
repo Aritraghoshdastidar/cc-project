@@ -1,2 +1,2 @@
 hello from lower
-new line
+COW_TEST
